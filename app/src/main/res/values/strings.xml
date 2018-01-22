@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Navigation Sample</string>
+    <string name="tab_01">Tab 01</string>
+    <string name="tab_02">Tab 02</string>
+    <string name="tab_03">Tab 03</string>
+    <string name="go_to_detail">See details…</string>
+    <string name="title_detail">Detail page</string>
+    <string name="details">Here is the details</string>
+</resources>
